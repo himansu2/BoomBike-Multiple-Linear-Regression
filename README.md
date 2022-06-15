@@ -28,10 +28,15 @@ Concepts such as EDA, p-value, VIF, RFE were used and model building was done us
 
 ## Technologies Used
 pandas
+
 seaborn
+
 matplotlib
+
 statsmodels
+
 sci-kit learn
+
 numpy
 
 
