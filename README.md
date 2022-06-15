@@ -1,5 +1,5 @@
 # BoomBike Multiple Linear Regression Assignmnet
-> Linear Regression performed on the Boombikes bike rental dataset as part of an assignment.
+> Multiple Linear Regression performed on the Boombikes bike rental dataset as part of an assignment.
 
 
 ## Problem Statement
